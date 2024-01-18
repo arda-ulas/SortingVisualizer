@@ -1,4 +1,4 @@
-# sorting-visualizer
+# SortingVisualizer
 
 A web application designed to demonstrate the functionality of various sorting algorithms. This serves as an educational resource to help users understand and visualize the mechanics of different sorting methods in a clear and interactive way.
 
